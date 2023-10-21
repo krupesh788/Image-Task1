@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  body{
+     background-color: black;
+     width: 1560px;
+     height: 720px; 
+  }
+  .main-container{
+    position: relative;
+    left: 196px;
+    transform: rotate(314deg);
+    bottom: 277px;
+  }
+  /* .main-animation{
+  
+    animation: example 5s linear 2s infinite alternate;
+  
+  } */
+  img:hover{
+  transform: scale(1.1);
+  }
+  .third-row{
+    position: relative;
+    left: 204px;
+  }
+  .fourth-row{
+    position: relative;
+    left: 408px;
+  }
